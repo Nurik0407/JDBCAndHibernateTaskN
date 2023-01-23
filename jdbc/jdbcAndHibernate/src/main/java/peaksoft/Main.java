@@ -11,9 +11,8 @@ public class Main {
 
     public static void main(String[] args) {
         // реализуйте алгоритм здесь
-//        Util.getSession();
+        Util.getSession();
         while (true) {
-
             System.out.println("1 Created table");
             System.out.println("2 Deleted table");
             System.out.println("3 Save user");
